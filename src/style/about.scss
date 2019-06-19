@@ -1,0 +1,10 @@
+.about-page-wrapper {
+    display: grid;
+    grid-template-columns: 10fr 10fr;
+    height: calc(100vh - 100px);
+    width: calc(158vw - 100px);
+  
+    .mid-column {
+      background-size: cover;
+    }
+  }
